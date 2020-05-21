@@ -1,0 +1,33 @@
+PCAD Importer Log
+Project : Коммутаторы.LibPkg
+
+Section : D:\University\Theory Of Computer Systems Design\v15\Lab3\Коммутаторы.lib
+    Section : PCB Library - Коммутаторы.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SA(1-2) On Line 136
+            Warning - 1 : Skipping Token SB(1-2) On Line 159
+            Warning - 1 : Skipping Token attachedSymbol On Line 200
+            Warning - 1 : Skipping Token attachedSymbol On Line 221
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - Коммутаторы.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 121
+            Warning - 1 : Skipping Token layerContents On Line 125
+            Warning - 1 : Skipping Token defaultPinDes On Line 144
+            Warning - 1 : Skipping Token defaultPinDes On Line 152
+            Warning - 1 : Skipping Token defaultPinDes On Line 167
+            Warning - 1 : Skipping Token defaultPinDes On Line 175
+        EndSection
+
+        Section : Generating SCH Library - Коммутаторы.SchLib
+        EndSection
+    EndSection
+EndSection

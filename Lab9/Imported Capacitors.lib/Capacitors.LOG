@@ -1,0 +1,34 @@
+PCAD Importer Log
+Project : Capacitors.LibPkg
+
+Section : D:\University\Theory Of Computer Systems Design\v15\Lab3\Capacitors.lib
+    Section : PCB Library - Capacitors.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token CAP1 On Line 103
+            Warning - 1 : Skipping Token CAP2 On Line 126
+            Warning - 1 : Skipping Token attachedSymbol On Line 163
+            Warning - 1 : Skipping Token attachedSymbol On Line 185
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - Capacitors.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token viaStyleDef On Line 23
+            Warning - 1 : Skipping Token multiLayer On Line 72
+            Warning - 1 : Skipping Token layerContents On Line 76
+            Warning - 1 : Skipping Token multiLayer On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token defaultPinDes On Line 111
+            Warning - 1 : Skipping Token defaultPinDes On Line 119
+            Warning - 1 : Skipping Token defaultPinDes On Line 134
+            Warning - 1 : Skipping Token defaultPinDes On Line 142
+        EndSection
+
+        Section : Generating SCH Library - Capacitors.SchLib
+        EndSection
+    EndSection
+EndSection

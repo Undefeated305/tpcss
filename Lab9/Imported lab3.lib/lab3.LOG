@@ -1,0 +1,62 @@
+PCAD Importer Log
+Project : lab3.LibPkg
+
+Section : D:\University\Theory Of Computer Systems Design\v15\Lab3\lab3.lib
+    Section : PCB Library - lab3.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 117
+            Warning - 1 : Skipping Token defaultPinDes On Line 137
+            Warning - 1 : Skipping Token defaultPinDes On Line 138
+            Warning - 1 : Skipping Token defaultPinDes On Line 182
+            Warning - 1 : Skipping Token defaultPinDes On Line 183
+            Warning - 1 : Skipping Token defaultPinDes On Line 184
+            Warning - 1 : Skipping Token defaultPinDes On Line 185
+            Warning - 1 : Skipping Token A On Line 198
+            Warning - 1 : Skipping Token D2 On Line 213
+            Warning - 1 : Skipping Token TRANSFORMATOR On Line 240
+            Warning - 1 : Skipping Token XT_1 On Line 290
+            Warning - 1 : Skipping Token  œ-305 On Line 305
+            Warning - 1 : Skipping Token attachedSymbol On Line 351
+            Warning - 1 : Skipping Token attachedSymbol On Line 370
+            Warning - 1 : Skipping Token attachedSymbol On Line 393
+            Warning - 1 : Skipping Token attachedSymbol On Line 415
+            Warning - 1 : Skipping Token attachedSymbol On Line 435
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - lab3.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token viaStyleDef On Line 43
+            Warning - 1 : Skipping Token multiLayer On Line 116
+            Warning - 1 : Skipping Token layerContents On Line 119
+            Warning - 1 : Skipping Token layerContents On Line 122
+            Warning - 1 : Skipping Token multiLayer On Line 136
+            Warning - 1 : Skipping Token layerContents On Line 140
+            Warning - 1 : Skipping Token multiLayer On Line 158
+            Warning - 1 : Skipping Token layerContents On Line 165
+            Warning - 1 : Skipping Token multiLayer On Line 181
+            Warning - 1 : Skipping Token layerContents On Line 187
+            Warning - 1 : Skipping Token defaultPinDes On Line 206
+            Warning - 1 : Skipping Token defaultPinDes On Line 221
+            Warning - 1 : Skipping Token defaultPinDes On Line 229
+            Warning - 1 : Skipping Token defaultPinDes On Line 247
+            Warning - 1 : Skipping Token defaultPinDes On Line 254
+            Warning - 1 : Skipping Token defaultPinDes On Line 261
+            Warning - 1 : Skipping Token defaultPinDes On Line 268
+            Warning - 1 : Skipping Token defaultPinDes On Line 275
+            Warning - 1 : Skipping Token defaultPinDes On Line 298
+            Warning - 1 : Skipping Token defaultPinDes On Line 313
+            Warning - 1 : Skipping Token defaultPinDes On Line 321
+            Warning - 1 : Skipping Token defaultPinDes On Line 329
+        EndSection
+
+        Section : Generating SCH Library - lab3.SchLib
+        EndSection
+    EndSection
+EndSection

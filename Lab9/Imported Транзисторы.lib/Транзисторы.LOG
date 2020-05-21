@@ -1,0 +1,48 @@
+PCAD Importer Log
+Project : Транзисторы.LibPkg
+
+Section : D:\University\Theory Of Computer Systems Design\v15\Lab3\Транзисторы.lib
+    Section : PCB Library - Транзисторы.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token VT (N-ПОЛЕВОЙ) On Line 251
+            Warning - 1 : Skipping Token VT(NPN) On Line 288
+            Warning - 1 : Skipping Token attachedSymbol On Line 337
+            Warning - 1 : Skipping Token attachedSymbol On Line 361
+            Warning - 1 : Skipping Token attachedSymbol On Line 386
+            Warning - 1 : Skipping Token attachedSymbol On Line 409
+            Warning - 1 : Skipping Token attachedSymbol On Line 433
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - Транзисторы.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token viaStyleDef On Line 53
+            Warning - 1 : Skipping Token multiLayer On Line 141
+            Warning - 1 : Skipping Token layerContents On Line 146
+            Warning - 1 : Skipping Token multiLayer On Line 163
+            Warning - 1 : Skipping Token layerContents On Line 168
+            Warning - 1 : Skipping Token multiLayer On Line 185
+            Warning - 1 : Skipping Token layerContents On Line 190
+            Warning - 1 : Skipping Token multiLayer On Line 207
+            Warning - 1 : Skipping Token layerContents On Line 213
+            Warning - 1 : Skipping Token multiLayer On Line 232
+            Warning - 1 : Skipping Token layerContents On Line 238
+            Warning - 1 : Skipping Token defaultPinDes On Line 259
+            Warning - 1 : Skipping Token defaultPinDes On Line 267
+            Warning - 1 : Skipping Token defaultPinDes On Line 275
+            Warning - 1 : Skipping Token defaultPinDes On Line 296
+            Warning - 1 : Skipping Token defaultPinDes On Line 304
+            Warning - 1 : Skipping Token defaultPinDes On Line 312
+        EndSection
+
+        Section : Generating SCH Library - Транзисторы.SchLib
+        EndSection
+    EndSection
+EndSection
